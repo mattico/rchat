@@ -1,0 +1,7 @@
+[package]
+name = "rchat"
+version = "0.0.1"
+authors = ["Matt Ickstadt <matt@icky.pw>"]
+
+[dependencies]
+chrono = "0.2"
